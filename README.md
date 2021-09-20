@@ -6,7 +6,8 @@ Bookworm 📖 - лучший читатель новостей и парсер �
 
 # Aвторы
 [MISHA35656]()
-[nordbearbot.dev]()
+
+[nordbearbot.dev](https://github.com/nordbearbotdev)
 
 # ✌Поддержать авторов 
 
